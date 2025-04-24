@@ -17,6 +17,8 @@ Pode ser útil para iniciativas voltadas à saúde mental e também pode ser usa
 - **Nodemon** – Reinicia o servidor automaticamente durante o desenvolvimento  
 - **ECMAScript 6 (ES6)** – Utilizado para `import/export`  
 - **JSON** – Formato para comunicação entre cliente e servidor
+- **Método HTTP** - As rotas da API utilizam o método GET para retornar os dados.
+
 
 ## 📁 Estrutura do Projeto
 src/ model/ - # Pastas do projeto --
