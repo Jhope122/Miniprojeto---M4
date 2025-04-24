@@ -35,7 +35,7 @@ package.json - # Dependências do projeto--
 
 2. 📁 Acesse a pasta do projeto:
 
-cd Miniprojeto---M4
+   cd Miniprojeto---M4
 
 
 3. 📦 Instale as dependências:
