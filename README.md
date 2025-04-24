@@ -19,13 +19,13 @@ Pode ser útil para iniciativas voltadas à saúde mental e também pode ser usa
 - **JSON** – Formato para comunicação entre cliente e servidor
 
 ## 📁 Estrutura do Projeto
-src/ model/ - # Pastas do projeto
-livros.js  - # Dados sobre os livros
-alimentos.js - # Dados sobre os alimentos
-cursos.js - # Dados sobre os cursos
-server.js - # Configuração do servidor e rotas da API
-package.json - # Dependências do projeto
-.gitignore - # Ignora node_modules/ e package-lock.json
+src/ model/ - # Pastas do projeto --
+livros.js  - # Dados sobre os livros --
+alimentos.js - # Dados sobre os alimentos--
+cursos.js - # Dados sobre os cursos--
+server.js - # Configuração do servidor e rotas da API--
+package.json - # Dependências do projeto--
+.gitignore - # Ignora node_modules/ e package-lock.json--
 
 ## 🚀 Como usar a aplicação
 
