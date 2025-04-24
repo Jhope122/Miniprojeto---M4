@@ -3,12 +3,19 @@
   "version": "1.0.0",
   "description": "API criada com foco em oferecer indicações de livros , cursos gratuitos e alimentos saudáveis para o bem-estar psicossocial",
   "main": "server.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
-    "dev":"nodemon server.js"
+    "start": "nodemon server.js",
+    "dev": "nodemon server.js"
   },
-  "keywords": ["API","saude-mental","livros","alimentos","cursos gratuitos"],
+  "keywords": [
+    "API",
+    "saude-mental",
+    "livros",
+    "alimentos",
+    "cursos gratuitos"
+  ],
   "author": "Jhope",
   "license": "ISC",
   "dependencies": {
