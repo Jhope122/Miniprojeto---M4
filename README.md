@@ -40,15 +40,15 @@ package.json - # Dependências do projeto--
 
 3. 📦 Instale as dependências:
 
-npm install express  
-npm install nodemon
+    npm install express  
+    npm install nodemon
 
 
 4. ▶️ Inicie o servidor:
 
-Escrevendo no terminal - 
+   Escrevendo no terminal - 
 
-npm run dev
+    npm run dev
  
 
 5. 🌐 Acesse no navegador ou Insomnia:
